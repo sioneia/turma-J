@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(35, 53, 53);
+    font-size: large;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+.img-cabecalho{
+    width: 20%;
+
+}
+.item-lista{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 36px;
+   
+}
